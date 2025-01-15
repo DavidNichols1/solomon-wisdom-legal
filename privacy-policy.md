@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+---
+
+
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
